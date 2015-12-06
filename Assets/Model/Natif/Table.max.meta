@@ -1,0 +1,860 @@
+fileFormatVersion: 2
+guid: 4ef97b758b9f16c40a7afc8fd21f93c5
+timeCreated: 1443352272
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Aquarium:1
+    100002: Aquarium:1 1
+    100004: Aquarium:1 2
+    100006: Aquarium:1 3
+    100008: Aquarium:2
+    100010: Aquarium:2 1
+    100012: Aquarium:2 2
+    100014: Aquarium:2 3
+    100016: arc:1
+    100018: arc:1 1
+    100020: arc:1 2
+    100022: Beach hut - Door 2:1
+    100024: Beach hut - Door 2:1 1
+    100026: Beach hut - Door 2:1 2
+    100028: Beach hut - Door 2:1 3
+    100030: Beach hut - door:1
+    100032: Beach hut - door:1 1
+    100034: Beach hut - door:1 10
+    100036: Beach hut - door:1 11
+    100038: Beach hut - door:1 12
+    100040: Beach hut - door:1 13
+    100042: Beach hut - door:1 14
+    100044: Beach hut - door:1 15
+    100046: Beach hut - door:1 16
+    100048: Beach hut - door:1 17
+    100050: Beach hut - door:1 18
+    100052: Beach hut - door:1 19
+    100054: Beach hut - door:1 2
+    100056: Beach hut - door:1 3
+    100058: Beach hut - door:1 4
+    100060: Beach hut - door:1 5
+    100062: Beach hut - door:1 6
+    100064: Beach hut - door:1 7
+    100066: Beach hut - door:1 8
+    100068: Beach hut - door:1 9
+    100070: Beach hut - Ground:1
+    100072: Beach hut - Ground:1 1
+    100074: Beach hut - Ground:1 2
+    100076: Beach hut - Ground:1 3
+    100078: Beach hut - Matt:1
+    100080: Beach hut - Matt:1 1
+    100082: Beach hut - Matt:1 2
+    100084: Beach hut - Matt:1 3
+    100086: Beach hut - Roof 1:1
+    100088: Beach hut - Roof 1:1 1
+    100090: Beach hut - Roof 1:1 10
+    100092: Beach hut - Roof 1:1 11
+    100094: Beach hut - Roof 1:1 12
+    100096: Beach hut - Roof 1:1 13
+    100098: Beach hut - Roof 1:1 14
+    100100: Beach hut - Roof 1:1 15
+    100102: Beach hut - Roof 1:1 16
+    100104: Beach hut - Roof 1:1 17
+    100106: Beach hut - Roof 1:1 18
+    100108: Beach hut - Roof 1:1 19
+    100110: Beach hut - Roof 1:1 2
+    100112: Beach hut - Roof 1:1 3
+    100114: Beach hut - Roof 1:1 4
+    100116: Beach hut - Roof 1:1 5
+    100118: Beach hut - Roof 1:1 6
+    100120: Beach hut - Roof 1:1 7
+    100122: Beach hut - Roof 1:1 8
+    100124: Beach hut - Roof 1:1 9
+    100126: Beach hut - Roof 2:1
+    100128: Beach hut - Roof 2:1 1
+    100130: Beach hut - Roof 2:1 10
+    100132: Beach hut - Roof 2:1 11
+    100134: Beach hut - Roof 2:1 12
+    100136: Beach hut - Roof 2:1 13
+    100138: Beach hut - Roof 2:1 14
+    100140: Beach hut - Roof 2:1 15
+    100142: Beach hut - Roof 2:1 16
+    100144: Beach hut - Roof 2:1 17
+    100146: Beach hut - Roof 2:1 18
+    100148: Beach hut - Roof 2:1 19
+    100150: Beach hut - Roof 2:1 2
+    100152: Beach hut - Roof 2:1 3
+    100154: Beach hut - Roof 2:1 4
+    100156: Beach hut - Roof 2:1 5
+    100158: Beach hut - Roof 2:1 6
+    100160: Beach hut - Roof 2:1 7
+    100162: Beach hut - Roof 2:1 8
+    100164: Beach hut - Roof 2:1 9
+    100166: Beach hut - Wall 1:1
+    100168: Beach hut - Wall 1:1 1
+    100170: Beach hut - Wall 1:1 10
+    100172: Beach hut - Wall 1:1 11
+    100174: Beach hut - Wall 1:1 12
+    100176: Beach hut - Wall 1:1 13
+    100178: Beach hut - Wall 1:1 14
+    100180: Beach hut - Wall 1:1 15
+    100182: Beach hut - Wall 1:1 16
+    100184: Beach hut - Wall 1:1 17
+    100186: Beach hut - Wall 1:1 18
+    100188: Beach hut - Wall 1:1 19
+    100190: Beach hut - Wall 1:1 2
+    100192: Beach hut - Wall 1:1 3
+    100194: Beach hut - Wall 1:1 4
+    100196: Beach hut - Wall 1:1 5
+    100198: Beach hut - Wall 1:1 6
+    100200: Beach hut - Wall 1:1 7
+    100202: Beach hut - Wall 1:1 8
+    100204: Beach hut - Wall 1:1 9
+    100206: Beach hut - Wall 2:1
+    100208: Beach hut - Wall 2:1 1
+    100210: Beach hut - Wall 2:1 10
+    100212: Beach hut - Wall 2:1 11
+    100214: Beach hut - Wall 2:1 12
+    100216: Beach hut - Wall 2:1 13
+    100218: Beach hut - Wall 2:1 14
+    100220: Beach hut - Wall 2:1 15
+    100222: Beach hut - Wall 2:1 16
+    100224: Beach hut - Wall 2:1 17
+    100226: Beach hut - Wall 2:1 18
+    100228: Beach hut - Wall 2:1 19
+    100230: Beach hut - Wall 2:1 2
+    100232: Beach hut - Wall 2:1 3
+    100234: Beach hut - Wall 2:1 4
+    100236: Beach hut - Wall 2:1 5
+    100238: Beach hut - Wall 2:1 6
+    100240: Beach hut - Wall 2:1 7
+    100242: Beach hut - Wall 2:1 8
+    100244: Beach hut - Wall 2:1 9
+    100246: Beach hut - Wall 3:1
+    100248: Beach hut - Wall 3:1 1
+    100250: Beach hut - Wall 3:1 2
+    100252: Beach hut - Wall 3:1 3
+    100254: Beach hut - Wall back:1
+    100256: Beach hut - Wall back:1 1
+    100258: Beach hut - Wall back:1 2
+    100260: Beach hut - Wall back:1 3
+    100262: Beach hut - Wall front:1
+    100264: Beach hut - Wall front:1 1
+    100266: Beach hut - Wall front:1 2
+    100268: Beach hut - Wall front:1 3
+    100270: Beach Hut Green:1
+    100272: Beach Hut Green:2
+    100274: Beach Hut Violet:1
+    100276: Beach Hut Violet:2
+    100278: Beacon support corner:1
+    100280: Beacon support corner:1 1
+    100282: Beacon support corner:1 2
+    100284: Beacon support corner:2
+    100286: Beacon support corner:2 1
+    100288: Beacon support corner:2 2
+    100290: Beacon support corner:3
+    100292: Beacon support corner:3 1
+    100294: Beacon support corner:3 2
+    100296: Beacon support corner:4
+    100298: Beacon support corner:4 1
+    100300: Beacon support corner:4 2
+    100302: Beacon support middle:1
+    100304: Beacon support middle:1 1
+    100306: Beacon support middle:1 2
+    100308: Beacon support middle:2
+    100310: Beacon support middle:2 1
+    100312: Beacon support middle:2 2
+    100314: Glass:1
+    100316: Net Support:1
+    100318: Net Support:2
+    100320: Net:1
+    100322: Rod 1:1
+    100324: Rod 1:2
+    100326: Rod 2:1
+    100328: Rod 2:2
+    100330: Rod 3:1
+    100332: Rod 3:2
+    100334: Rod 4:1
+    100336: Rod 4:2
+    100338: Rod 7:1
+    100340: Rod 8:1
+    100342: Rod 8:2
+    100344: Rod 8:3
+    100346: Rod 8:4
+    100348: Round border:1
+    100350: Round border:2
+    100352: //RootNode
+    100354: Table:1
+    400000: Aquarium:1
+    400002: Aquarium:1 1
+    400004: Aquarium:1 2
+    400006: Aquarium:1 3
+    400008: Aquarium:2
+    400010: Aquarium:2 1
+    400012: Aquarium:2 2
+    400014: Aquarium:2 3
+    400016: arc:1
+    400018: arc:1 1
+    400020: arc:1 2
+    400022: Beach hut - Door 2:1
+    400024: Beach hut - Door 2:1 1
+    400026: Beach hut - Door 2:1 2
+    400028: Beach hut - Door 2:1 3
+    400030: Beach hut - door:1
+    400032: Beach hut - door:1 1
+    400034: Beach hut - door:1 10
+    400036: Beach hut - door:1 11
+    400038: Beach hut - door:1 12
+    400040: Beach hut - door:1 13
+    400042: Beach hut - door:1 14
+    400044: Beach hut - door:1 15
+    400046: Beach hut - door:1 16
+    400048: Beach hut - door:1 17
+    400050: Beach hut - door:1 18
+    400052: Beach hut - door:1 19
+    400054: Beach hut - door:1 2
+    400056: Beach hut - door:1 3
+    400058: Beach hut - door:1 4
+    400060: Beach hut - door:1 5
+    400062: Beach hut - door:1 6
+    400064: Beach hut - door:1 7
+    400066: Beach hut - door:1 8
+    400068: Beach hut - door:1 9
+    400070: Beach hut - Ground:1
+    400072: Beach hut - Ground:1 1
+    400074: Beach hut - Ground:1 2
+    400076: Beach hut - Ground:1 3
+    400078: Beach hut - Matt:1
+    400080: Beach hut - Matt:1 1
+    400082: Beach hut - Matt:1 2
+    400084: Beach hut - Matt:1 3
+    400086: Beach hut - Roof 1:1
+    400088: Beach hut - Roof 1:1 1
+    400090: Beach hut - Roof 1:1 10
+    400092: Beach hut - Roof 1:1 11
+    400094: Beach hut - Roof 1:1 12
+    400096: Beach hut - Roof 1:1 13
+    400098: Beach hut - Roof 1:1 14
+    400100: Beach hut - Roof 1:1 15
+    400102: Beach hut - Roof 1:1 16
+    400104: Beach hut - Roof 1:1 17
+    400106: Beach hut - Roof 1:1 18
+    400108: Beach hut - Roof 1:1 19
+    400110: Beach hut - Roof 1:1 2
+    400112: Beach hut - Roof 1:1 3
+    400114: Beach hut - Roof 1:1 4
+    400116: Beach hut - Roof 1:1 5
+    400118: Beach hut - Roof 1:1 6
+    400120: Beach hut - Roof 1:1 7
+    400122: Beach hut - Roof 1:1 8
+    400124: Beach hut - Roof 1:1 9
+    400126: Beach hut - Roof 2:1
+    400128: Beach hut - Roof 2:1 1
+    400130: Beach hut - Roof 2:1 10
+    400132: Beach hut - Roof 2:1 11
+    400134: Beach hut - Roof 2:1 12
+    400136: Beach hut - Roof 2:1 13
+    400138: Beach hut - Roof 2:1 14
+    400140: Beach hut - Roof 2:1 15
+    400142: Beach hut - Roof 2:1 16
+    400144: Beach hut - Roof 2:1 17
+    400146: Beach hut - Roof 2:1 18
+    400148: Beach hut - Roof 2:1 19
+    400150: Beach hut - Roof 2:1 2
+    400152: Beach hut - Roof 2:1 3
+    400154: Beach hut - Roof 2:1 4
+    400156: Beach hut - Roof 2:1 5
+    400158: Beach hut - Roof 2:1 6
+    400160: Beach hut - Roof 2:1 7
+    400162: Beach hut - Roof 2:1 8
+    400164: Beach hut - Roof 2:1 9
+    400166: Beach hut - Wall 1:1
+    400168: Beach hut - Wall 1:1 1
+    400170: Beach hut - Wall 1:1 10
+    400172: Beach hut - Wall 1:1 11
+    400174: Beach hut - Wall 1:1 12
+    400176: Beach hut - Wall 1:1 13
+    400178: Beach hut - Wall 1:1 14
+    400180: Beach hut - Wall 1:1 15
+    400182: Beach hut - Wall 1:1 16
+    400184: Beach hut - Wall 1:1 17
+    400186: Beach hut - Wall 1:1 18
+    400188: Beach hut - Wall 1:1 19
+    400190: Beach hut - Wall 1:1 2
+    400192: Beach hut - Wall 1:1 3
+    400194: Beach hut - Wall 1:1 4
+    400196: Beach hut - Wall 1:1 5
+    400198: Beach hut - Wall 1:1 6
+    400200: Beach hut - Wall 1:1 7
+    400202: Beach hut - Wall 1:1 8
+    400204: Beach hut - Wall 1:1 9
+    400206: Beach hut - Wall 2:1
+    400208: Beach hut - Wall 2:1 1
+    400210: Beach hut - Wall 2:1 10
+    400212: Beach hut - Wall 2:1 11
+    400214: Beach hut - Wall 2:1 12
+    400216: Beach hut - Wall 2:1 13
+    400218: Beach hut - Wall 2:1 14
+    400220: Beach hut - Wall 2:1 15
+    400222: Beach hut - Wall 2:1 16
+    400224: Beach hut - Wall 2:1 17
+    400226: Beach hut - Wall 2:1 18
+    400228: Beach hut - Wall 2:1 19
+    400230: Beach hut - Wall 2:1 2
+    400232: Beach hut - Wall 2:1 3
+    400234: Beach hut - Wall 2:1 4
+    400236: Beach hut - Wall 2:1 5
+    400238: Beach hut - Wall 2:1 6
+    400240: Beach hut - Wall 2:1 7
+    400242: Beach hut - Wall 2:1 8
+    400244: Beach hut - Wall 2:1 9
+    400246: Beach hut - Wall 3:1
+    400248: Beach hut - Wall 3:1 1
+    400250: Beach hut - Wall 3:1 2
+    400252: Beach hut - Wall 3:1 3
+    400254: Beach hut - Wall back:1
+    400256: Beach hut - Wall back:1 1
+    400258: Beach hut - Wall back:1 2
+    400260: Beach hut - Wall back:1 3
+    400262: Beach hut - Wall front:1
+    400264: Beach hut - Wall front:1 1
+    400266: Beach hut - Wall front:1 2
+    400268: Beach hut - Wall front:1 3
+    400270: Beach Hut Green:1
+    400272: Beach Hut Green:2
+    400274: Beach Hut Violet:1
+    400276: Beach Hut Violet:2
+    400278: Beacon support corner:1
+    400280: Beacon support corner:1 1
+    400282: Beacon support corner:1 2
+    400284: Beacon support corner:2
+    400286: Beacon support corner:2 1
+    400288: Beacon support corner:2 2
+    400290: Beacon support corner:3
+    400292: Beacon support corner:3 1
+    400294: Beacon support corner:3 2
+    400296: Beacon support corner:4
+    400298: Beacon support corner:4 1
+    400300: Beacon support corner:4 2
+    400302: Beacon support middle:1
+    400304: Beacon support middle:1 1
+    400306: Beacon support middle:1 2
+    400308: Beacon support middle:2
+    400310: Beacon support middle:2 1
+    400312: Beacon support middle:2 2
+    400314: Glass:1
+    400316: Net Support:1
+    400318: Net Support:2
+    400320: Net:1
+    400322: Rod 1:1
+    400324: Rod 1:2
+    400326: Rod 2:1
+    400328: Rod 2:2
+    400330: Rod 3:1
+    400332: Rod 3:2
+    400334: Rod 4:1
+    400336: Rod 4:2
+    400338: Rod 7:1
+    400340: Rod 8:1
+    400342: Rod 8:2
+    400344: Rod 8:3
+    400346: Rod 8:4
+    400348: Round border:1
+    400350: Round border:2
+    400352: //RootNode
+    400354: Table:1
+    2300000: Aquarium:1 1
+    2300002: Aquarium:1 2
+    2300004: Aquarium:1 3
+    2300006: Aquarium:2 1
+    2300008: Aquarium:2 2
+    2300010: Aquarium:2 3
+    2300012: arc:1 1
+    2300014: arc:1 2
+    2300016: Beach hut - Door 2:1
+    2300018: Beach hut - Door 2:1 1
+    2300020: Beach hut - Door 2:1 2
+    2300022: Beach hut - Door 2:1 3
+    2300024: Beach hut - door:1 10
+    2300026: Beach hut - door:1 11
+    2300028: Beach hut - door:1 12
+    2300030: Beach hut - door:1 13
+    2300032: Beach hut - door:1 14
+    2300034: Beach hut - door:1 15
+    2300036: Beach hut - door:1 16
+    2300038: Beach hut - door:1 17
+    2300040: Beach hut - door:1 18
+    2300042: Beach hut - door:1 19
+    2300044: Beach hut - door:1 4
+    2300046: Beach hut - door:1 5
+    2300048: Beach hut - door:1 6
+    2300050: Beach hut - door:1 7
+    2300052: Beach hut - door:1 8
+    2300054: Beach hut - door:1 9
+    2300056: Beach hut - Ground:1
+    2300058: Beach hut - Ground:1 1
+    2300060: Beach hut - Ground:1 2
+    2300062: Beach hut - Ground:1 3
+    2300064: Beach hut - Matt:1
+    2300066: Beach hut - Matt:1 1
+    2300068: Beach hut - Matt:1 2
+    2300070: Beach hut - Matt:1 3
+    2300072: Beach hut - Roof 1:1 10
+    2300074: Beach hut - Roof 1:1 11
+    2300076: Beach hut - Roof 1:1 12
+    2300078: Beach hut - Roof 1:1 13
+    2300080: Beach hut - Roof 1:1 14
+    2300082: Beach hut - Roof 1:1 15
+    2300084: Beach hut - Roof 1:1 16
+    2300086: Beach hut - Roof 1:1 17
+    2300088: Beach hut - Roof 1:1 18
+    2300090: Beach hut - Roof 1:1 19
+    2300092: Beach hut - Roof 1:1 4
+    2300094: Beach hut - Roof 1:1 5
+    2300096: Beach hut - Roof 1:1 6
+    2300098: Beach hut - Roof 1:1 7
+    2300100: Beach hut - Roof 1:1 8
+    2300102: Beach hut - Roof 1:1 9
+    2300104: Beach hut - Roof 2:1 10
+    2300106: Beach hut - Roof 2:1 11
+    2300108: Beach hut - Roof 2:1 12
+    2300110: Beach hut - Roof 2:1 13
+    2300112: Beach hut - Roof 2:1 14
+    2300114: Beach hut - Roof 2:1 15
+    2300116: Beach hut - Roof 2:1 16
+    2300118: Beach hut - Roof 2:1 17
+    2300120: Beach hut - Roof 2:1 18
+    2300122: Beach hut - Roof 2:1 19
+    2300124: Beach hut - Roof 2:1 4
+    2300126: Beach hut - Roof 2:1 5
+    2300128: Beach hut - Roof 2:1 6
+    2300130: Beach hut - Roof 2:1 7
+    2300132: Beach hut - Roof 2:1 8
+    2300134: Beach hut - Roof 2:1 9
+    2300136: Beach hut - Wall 1:1 10
+    2300138: Beach hut - Wall 1:1 11
+    2300140: Beach hut - Wall 1:1 12
+    2300142: Beach hut - Wall 1:1 13
+    2300144: Beach hut - Wall 1:1 14
+    2300146: Beach hut - Wall 1:1 15
+    2300148: Beach hut - Wall 1:1 16
+    2300150: Beach hut - Wall 1:1 17
+    2300152: Beach hut - Wall 1:1 18
+    2300154: Beach hut - Wall 1:1 19
+    2300156: Beach hut - Wall 1:1 4
+    2300158: Beach hut - Wall 1:1 5
+    2300160: Beach hut - Wall 1:1 6
+    2300162: Beach hut - Wall 1:1 7
+    2300164: Beach hut - Wall 1:1 8
+    2300166: Beach hut - Wall 1:1 9
+    2300168: Beach hut - Wall 2:1 10
+    2300170: Beach hut - Wall 2:1 11
+    2300172: Beach hut - Wall 2:1 12
+    2300174: Beach hut - Wall 2:1 13
+    2300176: Beach hut - Wall 2:1 14
+    2300178: Beach hut - Wall 2:1 15
+    2300180: Beach hut - Wall 2:1 16
+    2300182: Beach hut - Wall 2:1 17
+    2300184: Beach hut - Wall 2:1 18
+    2300186: Beach hut - Wall 2:1 19
+    2300188: Beach hut - Wall 2:1 4
+    2300190: Beach hut - Wall 2:1 5
+    2300192: Beach hut - Wall 2:1 6
+    2300194: Beach hut - Wall 2:1 7
+    2300196: Beach hut - Wall 2:1 8
+    2300198: Beach hut - Wall 2:1 9
+    2300200: Beach hut - Wall 3:1
+    2300202: Beach hut - Wall 3:1 1
+    2300204: Beach hut - Wall 3:1 2
+    2300206: Beach hut - Wall 3:1 3
+    2300208: Beach hut - Wall back:1
+    2300210: Beach hut - Wall back:1 1
+    2300212: Beach hut - Wall back:1 2
+    2300214: Beach hut - Wall back:1 3
+    2300216: Beach hut - Wall front:1
+    2300218: Beach hut - Wall front:1 1
+    2300220: Beach hut - Wall front:1 2
+    2300222: Beach hut - Wall front:1 3
+    2300224: Beacon support corner:1 1
+    2300226: Beacon support corner:1 2
+    2300228: Beacon support corner:2 1
+    2300230: Beacon support corner:2 2
+    2300232: Beacon support corner:3 1
+    2300234: Beacon support corner:3 2
+    2300236: Beacon support corner:4 1
+    2300238: Beacon support corner:4 2
+    2300240: Beacon support middle:1 1
+    2300242: Beacon support middle:1 2
+    2300244: Beacon support middle:2 1
+    2300246: Beacon support middle:2 2
+    2300248: Glass:1
+    2300250: Net Support:1
+    2300252: Net Support:2
+    2300254: Net:1
+    2300256: Rod 1:1
+    2300258: Rod 1:2
+    2300260: Rod 2:1
+    2300262: Rod 2:2
+    2300264: Rod 3:1
+    2300266: Rod 3:2
+    2300268: Rod 4:1
+    2300270: Rod 4:2
+    2300272: Rod 7:1
+    2300274: Rod 8:1
+    2300276: Rod 8:2
+    2300278: Rod 8:3
+    2300280: Rod 8:4
+    2300282: Round border:1
+    2300284: Round border:2
+    2300286: Table:1
+    3300000: Aquarium:1 1
+    3300002: Aquarium:1 2
+    3300004: Aquarium:1 3
+    3300006: Aquarium:2 1
+    3300008: Aquarium:2 2
+    3300010: Aquarium:2 3
+    3300012: arc:1 1
+    3300014: arc:1 2
+    3300016: Beach hut - Door 2:1
+    3300018: Beach hut - Door 2:1 1
+    3300020: Beach hut - Door 2:1 2
+    3300022: Beach hut - Door 2:1 3
+    3300024: Beach hut - door:1 10
+    3300026: Beach hut - door:1 11
+    3300028: Beach hut - door:1 12
+    3300030: Beach hut - door:1 13
+    3300032: Beach hut - door:1 14
+    3300034: Beach hut - door:1 15
+    3300036: Beach hut - door:1 16
+    3300038: Beach hut - door:1 17
+    3300040: Beach hut - door:1 18
+    3300042: Beach hut - door:1 19
+    3300044: Beach hut - door:1 4
+    3300046: Beach hut - door:1 5
+    3300048: Beach hut - door:1 6
+    3300050: Beach hut - door:1 7
+    3300052: Beach hut - door:1 8
+    3300054: Beach hut - door:1 9
+    3300056: Beach hut - Ground:1
+    3300058: Beach hut - Ground:1 1
+    3300060: Beach hut - Ground:1 2
+    3300062: Beach hut - Ground:1 3
+    3300064: Beach hut - Matt:1
+    3300066: Beach hut - Matt:1 1
+    3300068: Beach hut - Matt:1 2
+    3300070: Beach hut - Matt:1 3
+    3300072: Beach hut - Roof 1:1 10
+    3300074: Beach hut - Roof 1:1 11
+    3300076: Beach hut - Roof 1:1 12
+    3300078: Beach hut - Roof 1:1 13
+    3300080: Beach hut - Roof 1:1 14
+    3300082: Beach hut - Roof 1:1 15
+    3300084: Beach hut - Roof 1:1 16
+    3300086: Beach hut - Roof 1:1 17
+    3300088: Beach hut - Roof 1:1 18
+    3300090: Beach hut - Roof 1:1 19
+    3300092: Beach hut - Roof 1:1 4
+    3300094: Beach hut - Roof 1:1 5
+    3300096: Beach hut - Roof 1:1 6
+    3300098: Beach hut - Roof 1:1 7
+    3300100: Beach hut - Roof 1:1 8
+    3300102: Beach hut - Roof 1:1 9
+    3300104: Beach hut - Roof 2:1 10
+    3300106: Beach hut - Roof 2:1 11
+    3300108: Beach hut - Roof 2:1 12
+    3300110: Beach hut - Roof 2:1 13
+    3300112: Beach hut - Roof 2:1 14
+    3300114: Beach hut - Roof 2:1 15
+    3300116: Beach hut - Roof 2:1 16
+    3300118: Beach hut - Roof 2:1 17
+    3300120: Beach hut - Roof 2:1 18
+    3300122: Beach hut - Roof 2:1 19
+    3300124: Beach hut - Roof 2:1 4
+    3300126: Beach hut - Roof 2:1 5
+    3300128: Beach hut - Roof 2:1 6
+    3300130: Beach hut - Roof 2:1 7
+    3300132: Beach hut - Roof 2:1 8
+    3300134: Beach hut - Roof 2:1 9
+    3300136: Beach hut - Wall 1:1 10
+    3300138: Beach hut - Wall 1:1 11
+    3300140: Beach hut - Wall 1:1 12
+    3300142: Beach hut - Wall 1:1 13
+    3300144: Beach hut - Wall 1:1 14
+    3300146: Beach hut - Wall 1:1 15
+    3300148: Beach hut - Wall 1:1 16
+    3300150: Beach hut - Wall 1:1 17
+    3300152: Beach hut - Wall 1:1 18
+    3300154: Beach hut - Wall 1:1 19
+    3300156: Beach hut - Wall 1:1 4
+    3300158: Beach hut - Wall 1:1 5
+    3300160: Beach hut - Wall 1:1 6
+    3300162: Beach hut - Wall 1:1 7
+    3300164: Beach hut - Wall 1:1 8
+    3300166: Beach hut - Wall 1:1 9
+    3300168: Beach hut - Wall 2:1 10
+    3300170: Beach hut - Wall 2:1 11
+    3300172: Beach hut - Wall 2:1 12
+    3300174: Beach hut - Wall 2:1 13
+    3300176: Beach hut - Wall 2:1 14
+    3300178: Beach hut - Wall 2:1 15
+    3300180: Beach hut - Wall 2:1 16
+    3300182: Beach hut - Wall 2:1 17
+    3300184: Beach hut - Wall 2:1 18
+    3300186: Beach hut - Wall 2:1 19
+    3300188: Beach hut - Wall 2:1 4
+    3300190: Beach hut - Wall 2:1 5
+    3300192: Beach hut - Wall 2:1 6
+    3300194: Beach hut - Wall 2:1 7
+    3300196: Beach hut - Wall 2:1 8
+    3300198: Beach hut - Wall 2:1 9
+    3300200: Beach hut - Wall 3:1
+    3300202: Beach hut - Wall 3:1 1
+    3300204: Beach hut - Wall 3:1 2
+    3300206: Beach hut - Wall 3:1 3
+    3300208: Beach hut - Wall back:1
+    3300210: Beach hut - Wall back:1 1
+    3300212: Beach hut - Wall back:1 2
+    3300214: Beach hut - Wall back:1 3
+    3300216: Beach hut - Wall front:1
+    3300218: Beach hut - Wall front:1 1
+    3300220: Beach hut - Wall front:1 2
+    3300222: Beach hut - Wall front:1 3
+    3300224: Beacon support corner:1 1
+    3300226: Beacon support corner:1 2
+    3300228: Beacon support corner:2 1
+    3300230: Beacon support corner:2 2
+    3300232: Beacon support corner:3 1
+    3300234: Beacon support corner:3 2
+    3300236: Beacon support corner:4 1
+    3300238: Beacon support corner:4 2
+    3300240: Beacon support middle:1 1
+    3300242: Beacon support middle:1 2
+    3300244: Beacon support middle:2 1
+    3300246: Beacon support middle:2 2
+    3300248: Glass:1
+    3300250: Net Support:1
+    3300252: Net Support:2
+    3300254: Net:1
+    3300256: Rod 1:1
+    3300258: Rod 1:2
+    3300260: Rod 2:1
+    3300262: Rod 2:2
+    3300264: Rod 3:1
+    3300266: Rod 3:2
+    3300268: Rod 4:1
+    3300270: Rod 4:2
+    3300272: Rod 7:1
+    3300274: Rod 8:1
+    3300276: Rod 8:2
+    3300278: Rod 8:3
+    3300280: Rod 8:4
+    3300282: Round border:1
+    3300284: Round border:2
+    3300286: Table:1
+    4300000: arc:1
+    4300002: arc:1
+    4300004: Beacon support corner:1
+    4300006: Beacon support corner:1
+    4300008: Beacon support corner:2
+    4300010: Beacon support corner:2
+    4300012: Beacon support corner:3
+    4300014: Beacon support corner:3
+    4300016: Beacon support corner:4
+    4300018: Beacon support corner:4
+    4300020: Beacon support middle:1
+    4300022: Beacon support middle:1
+    4300024: Beacon support middle:2
+    4300026: Beacon support middle:2
+    4300028: Rod 1:1
+    4300030: Rod 1:2
+    4300032: Rod 2:1
+    4300034: Rod 2:2
+    4300036: Rod 3:1
+    4300038: Rod 3:2
+    4300040: Rod 4:1
+    4300042: Rod 4:2
+    4300044: Round border:1
+    4300046: Round border:2
+    4300048: Table:1
+    4300050: Glass:1
+    4300052: Aquarium:1
+    4300054: Aquarium:1
+    4300056: Aquarium:1
+    4300058: Aquarium:2
+    4300060: Aquarium:2
+    4300062: Aquarium:2
+    4300064: Net:1
+    4300066: Rod 7:1
+    4300068: Rod 8:1
+    4300070: Rod 8:2
+    4300072: Rod 8:3
+    4300074: Rod 8:4
+    4300076: Net Support:1
+    4300078: Net Support:2
+    4300080: Beach hut - Matt:1
+    4300082: Beach hut - Roof 2:1
+    4300084: Beach hut - Roof 2:1
+    4300086: Beach hut - Roof 2:1
+    4300088: Beach hut - Roof 2:1
+    4300090: Beach hut - Roof 1:1
+    4300092: Beach hut - Roof 1:1
+    4300094: Beach hut - Roof 1:1
+    4300096: Beach hut - Roof 1:1
+    4300098: Beach hut - Wall 1:1
+    4300100: Beach hut - Wall 1:1
+    4300102: Beach hut - Wall 1:1
+    4300104: Beach hut - Wall 1:1
+    4300106: Beach hut - Wall 2:1
+    4300108: Beach hut - Wall 2:1
+    4300110: Beach hut - Wall 2:1
+    4300112: Beach hut - Wall 2:1
+    4300114: Beach hut - Wall back:1
+    4300116: Beach hut - Wall front:1
+    4300118: Beach hut - door:1
+    4300120: Beach hut - door:1
+    4300122: Beach hut - door:1
+    4300124: Beach hut - door:1
+    4300126: Beach hut - Ground:1
+    4300128: Beach hut - Door 2:1
+    4300130: Beach hut - Wall 3:1
+    4300132: Beach hut - Matt:1
+    4300134: Beach hut - Roof 2:1
+    4300136: Beach hut - Roof 2:1
+    4300138: Beach hut - Roof 2:1
+    4300140: Beach hut - Roof 2:1
+    4300142: Beach hut - Roof 1:1
+    4300144: Beach hut - Roof 1:1
+    4300146: Beach hut - Roof 1:1
+    4300148: Beach hut - Roof 1:1
+    4300150: Beach hut - Wall 1:1
+    4300152: Beach hut - Wall 1:1
+    4300154: Beach hut - Wall 1:1
+    4300156: Beach hut - Wall 1:1
+    4300158: Beach hut - Wall 2:1
+    4300160: Beach hut - Wall 2:1
+    4300162: Beach hut - Wall 2:1
+    4300164: Beach hut - Wall 2:1
+    4300166: Beach hut - Wall back:1
+    4300168: Beach hut - Wall front:1
+    4300170: Beach hut - door:1
+    4300172: Beach hut - door:1
+    4300174: Beach hut - door:1
+    4300176: Beach hut - door:1
+    4300178: Beach hut - Ground:1
+    4300180: Beach hut - Door 2:1
+    4300182: Beach hut - Wall 3:1
+    4300184: Beach hut - Matt:1
+    4300186: Beach hut - Roof 2:1
+    4300188: Beach hut - Roof 2:1
+    4300190: Beach hut - Roof 2:1
+    4300192: Beach hut - Roof 2:1
+    4300194: Beach hut - Roof 1:1
+    4300196: Beach hut - Roof 1:1
+    4300198: Beach hut - Roof 1:1
+    4300200: Beach hut - Roof 1:1
+    4300202: Beach hut - Wall 1:1
+    4300204: Beach hut - Wall 1:1
+    4300206: Beach hut - Wall 1:1
+    4300208: Beach hut - Wall 1:1
+    4300210: Beach hut - Wall 2:1
+    4300212: Beach hut - Wall 2:1
+    4300214: Beach hut - Wall 2:1
+    4300216: Beach hut - Wall 2:1
+    4300218: Beach hut - Wall back:1
+    4300220: Beach hut - Wall front:1
+    4300222: Beach hut - door:1
+    4300224: Beach hut - door:1
+    4300226: Beach hut - door:1
+    4300228: Beach hut - door:1
+    4300230: Beach hut - Door 2:1
+    4300232: Beach hut - Wall 3:1
+    4300234: Beach hut - Ground:1
+    4300236: Beach hut - Matt:1
+    4300238: Beach hut - Roof 2:1
+    4300240: Beach hut - Roof 2:1
+    4300242: Beach hut - Roof 2:1
+    4300244: Beach hut - Roof 2:1
+    4300246: Beach hut - Roof 1:1
+    4300248: Beach hut - Roof 1:1
+    4300250: Beach hut - Roof 1:1
+    4300252: Beach hut - Roof 1:1
+    4300254: Beach hut - Wall 1:1
+    4300256: Beach hut - Wall 1:1
+    4300258: Beach hut - Wall 1:1
+    4300260: Beach hut - Wall 1:1
+    4300262: Beach hut - Wall 2:1
+    4300264: Beach hut - Wall 2:1
+    4300266: Beach hut - Wall 2:1
+    4300268: Beach hut - Wall 2:1
+    4300270: Beach hut - Wall back:1
+    4300272: Beach hut - Wall front:1
+    4300274: Beach hut - door:1
+    4300276: Beach hut - door:1
+    4300278: Beach hut - door:1
+    4300280: Beach hut - door:1
+    4300282: Beach hut - Door 2:1
+    4300284: Beach hut - Wall 3:1
+    4300286: Beach hut - Ground:1
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
